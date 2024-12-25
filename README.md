@@ -1,4 +1,4 @@
-# Kafka Producer-Consumer with Go
+# Apache Kafka Producer-Consumer with Go
 
 This project demonstrates a Kafka Producer-Consumer system built with Go. It includes a REST API for sending messages to a Kafka producer, which are consumed and processed by a Kafka consumer.
 
